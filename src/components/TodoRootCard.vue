@@ -1,10 +1,10 @@
 <template>
-  <div id="todo-root"></div>
+    <div id="todo-root"></div>
 </template>
 
 <script>
 export default {
-  name: 'TodoRootCard',
+    name: 'TodoRootCard',
 };
 </script>
 
